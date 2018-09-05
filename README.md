@@ -60,4 +60,4 @@ and the name as (depending on your mood):
 [Documentation/gitcvs-migration.txt]: Documentation/gitcvs-migration.txt
 [Documentation/SubmittingPatches]: Documentation/SubmittingPatches
 # freeforeveryone
-# freeforeveryone
+
