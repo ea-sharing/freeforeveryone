@@ -1,4 +1,4 @@
-Git - fast, scalable, distributed revision control system
+Git - fast, scalable, distributed revision control system!
 =========================================================
 
 Git is a fast, scalable, distributed revision control system with an
@@ -60,4 +60,3 @@ and the name as (depending on your mood):
 [Documentation/gitcvs-migration.txt]: Documentation/gitcvs-migration.txt
 [Documentation/SubmittingPatches]: Documentation/SubmittingPatches
 # freeforeveryone
-
